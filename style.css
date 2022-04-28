@@ -35,7 +35,7 @@ h1,h2{
 /* End Global Rules */
 /* ================Header================ */
 header{
-    background-image: url(../tools/images/bg-header-desktop.png);
+    background-image: url(bg-header-desktop.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
